@@ -1,0 +1,4 @@
+mkdir - makes a new directory
+rmdir - removes/deletes empty directory
+rm -r - dels dir and recursively all included files
+
